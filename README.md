@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Se1ah
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java projects
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me salah[dot]m[At sign]outlook[dot]com
 
 <!---
